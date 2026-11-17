@@ -1,2 +1,3 @@
 # Machine-Learning-5to
-Trabajos practicos Machine Learning 5to B
+En este repo estan los trabajos practicos, presentaciones y guiones
+de la falsa exposicion que Tomas Mayorga nos dio para presentar
